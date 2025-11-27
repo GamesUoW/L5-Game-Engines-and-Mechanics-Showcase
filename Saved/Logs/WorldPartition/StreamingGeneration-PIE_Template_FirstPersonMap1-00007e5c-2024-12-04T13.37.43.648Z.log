@@ -1,0 +1,187 @@
+[+] Containers:
+ |- [+] Container: /Game/Template_FirstPersonMap1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0BA2A5A1450150D7D8CF528F33BDA17E BaseClass:/Game/Blueprints/Platforms/BP_JumpPad.BP_JumpPad_C NativeClass:/Script/Engine.Actor Name:BP_JumpPad_C_UAID_6C2408355EFE372602_1438794303 Label:BP_JumpPad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=770.609 Y=1025.734 Z=-3.792), Max=(X=922.323 Y=1177.448 Z=100.118) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1954CFA14378EBD52E620A95403C586C BaseClass:/Game/Blueprints/BP_BasicDoor.BP_BasicDoor_C NativeClass:/Script/Engine.Actor Name:BP_BasicDoor_C_UAID_6C2408355EFE672802_1866922863 Label:BP_BasicDoor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1446.872 Y=2243.106 Z=-0.000), Max=(X=1686.288 Y=2390.659 Z=274.410) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1C40130D48C5BBD2F257028E49EA0D1F BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1483722329 Label:BP_PoisonPellet4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1294.324 Y=486.556 Z=22.000), Max=(X=1390.324 Y=582.556 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- Guid:3374B1FA41567D122C46409888F2A5FC BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1487274332 Label:BP_PoisonPellet7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1180.867 Y=268.359 Z=22.000), Max=(X=1276.867 Y=364.359 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- Guid:35B5844F495FB95F1A3D78AE3874D4DC BaseClass:/Game/Blueprints/Platforms/BP_MovingPlatform.BP_MovingPlatform_C NativeClass:/Script/Engine.Actor Name:BP_MovingPlatform_C_UAID_6C2408355EFE392602_1452792656 Label:BP_MovingPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1115.360 Y=996.124 Z=-4.515), Max=(X=1310.472 Y=1206.885 Z=4.515) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3D790235440AFC76711A8BB96F988E2A BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=740.275 Y=2711.209 Z=0.721), Max=(X=1312.063 Y=3493.547 Z=200.721) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:4548787C4717C855480547A20A12A894 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:617017194BA30974B29AC092C0B64936 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:720AD4C1459C1CE034300F90F7D9F38F BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1483720328 Label:BP_PoisonPellet3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1180.867 Y=486.556 Z=22.000), Max=(X=1276.867 Y=582.556 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- Guid:728453A242435E92BB04608782FA8DBA BaseClass:/Game/Blueprints/BP_PhysicsLamp.BP_PhysicsLamp_C NativeClass:/Script/Engine.Actor Name:BP_PhysicsLamp_C_UAID_6C2408355EFE343102_1218211392 Label:BP_PhysicsLamp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=416.336 Y=2157.621 Z=123.892), Max=(X=516.336 Y=2257.621 Z=220.753) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:76EF948448B42A401CCFD58EBBE1B5B4 BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFE9D2402_1470519143 Label:BP_PoisonPellet SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1180.867 Y=593.622 Z=22.000), Max=(X=1276.867 Y=689.622 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- Guid:77F4AE4C47EF5EFF9650F5BD1786913E BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1487276333 Label:BP_PoisonPellet8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1294.324 Y=268.359 Z=22.000), Max=(X=1390.324 Y=364.359 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- Guid:7A52CC2C407A95F1DEA61DBE7887A252 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:7D1C87C8476BBB8FCC837CB111E8BE71 BaseClass:/Game/Blueprints/BP_Button.BP_Button_C NativeClass:/Script/Engine.Actor Name:BP_Button_C_UAID_6C2408355EFE682802_2062683040 Label:BP_Button SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1548.106 Y=2641.088 Z=-1.996), Max=(X=1638.572 Y=2721.035 Z=294.004) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A3A341CA42324B76ACDE2088A090ED77 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_30 Label:SM_ChamferCube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1002.304 Y=2419.399 Z=38.480), Max=(X=1213.629 Y=2630.724 Z=188.480) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SimulatedCubes FolderGuid:9AEEADCB4DC6C647D6E7C0B4EDA1744F
+ |   |   |- Guid:BECBF280402F886053996E84A81B5041 BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1485737330 Label:BP_PoisonPellet5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1180.867 Y=385.231 Z=22.000), Max=(X=1276.867 Y=481.231 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- Guid:C1DDF40940526D2E181C25A48BB9A2DB BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:C2D1289F4D7D591F5FBC9BB41E68BAFB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=569.129 Y=-0.000 Z=-50.000), Max=(X=1480.213 Y=4716.895 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:C2DE75BC42578EB5AA16D599F6AE8A02 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:C83D4D3347A5A09498232C843359C8C6 BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1485740331 Label:BP_PoisonPellet6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1294.324 Y=385.231 Z=22.000), Max=(X=1390.324 Y=481.231 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- Guid:D3E359F1415551E09C5EB39546359A5B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:D73F7080491A00FAF68D72BF0C771043 BaseClass:/Game/Blueprints/BP_Antidote.BP_Antidote_C NativeClass:/Script/Engine.Actor Name:BP_Antidote_C_UAID_6C2408355EFE482602_1579467295 Label:BP_Antidote SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=631.266 Y=422.522 Z=-84.369), Max=(X=831.266 Y=622.522 Z=115.631) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D8B32AC841B39E4E94108690EAAEB0F3 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=990.929 Y=119.479 Z=-0.000), Max=(X=1070.929 Y=199.479 Z=184.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DFB930BC4246FAA1634340A1CCDC7609 BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1480041327 Label:BP_PoisonPellet2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1294.324 Y=593.622 Z=22.000), Max=(X=1390.324 Y=689.622 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- Guid:E0DEA7EC44BBD74013BF919E9A56DF5E BaseClass:/Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Rifle_C_1 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=757.424 Y=353.682 Z=64.000), Max=(X=821.424 Y=443.122 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ED3627974F5376F9614327AC445EFB55 BaseClass:/Game/Blueprints/BP_Fire.BP_Fire_C NativeClass:/Script/Engine.Actor Name:BP_Fire_C_UAID_6C2408355EFE5B3502_1931015479 Label:BP_Fire SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1040.413 Y=3652.135 Z=-155.343), Max=(X=1482.180 Y=4013.537 Z=397.328) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F3DED7B64B6B90742A4E2FB8649F82DE BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:FD342E8F434F7198226F1F99C0AB8894 BaseClass:/Game/Blueprints/BP_PhysicsDoor.BP_PhysicsDoor_C NativeClass:/Script/Engine.Actor Name:BP_PhysicsDoor_C_UAID_6C2408355EFE323102_1287877039 Label:BP_PhysicsDoor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=845.952 Y=2145.102 Z=-0.000), Max=(X=879.630 Y=2299.667 Z=287.450) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0BA2A5A1450150D7D8CF528F33BDA17E BaseClass:/Game/Blueprints/Platforms/BP_JumpPad.BP_JumpPad_C NativeClass:/Script/Engine.Actor Name:BP_JumpPad_C_UAID_6C2408355EFE372602_1438794303 Label:BP_JumpPad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=770.609 Y=1025.734 Z=-3.792), Max=(X=922.323 Y=1177.448 Z=100.118) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1954CFA14378EBD52E620A95403C586C BaseClass:/Game/Blueprints/BP_BasicDoor.BP_BasicDoor_C NativeClass:/Script/Engine.Actor Name:BP_BasicDoor_C_UAID_6C2408355EFE672802_1866922863 Label:BP_BasicDoor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1446.872 Y=2243.106 Z=-0.000), Max=(X=1686.288 Y=2390.659 Z=274.410) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1C40130D48C5BBD2F257028E49EA0D1F BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1483722329 Label:BP_PoisonPellet4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1294.324 Y=486.556 Z=22.000), Max=(X=1390.324 Y=582.556 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:3374B1FA41567D122C46409888F2A5FC BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1487274332 Label:BP_PoisonPellet7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1180.867 Y=268.359 Z=22.000), Max=(X=1276.867 Y=364.359 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:35B5844F495FB95F1A3D78AE3874D4DC BaseClass:/Game/Blueprints/Platforms/BP_MovingPlatform.BP_MovingPlatform_C NativeClass:/Script/Engine.Actor Name:BP_MovingPlatform_C_UAID_6C2408355EFE392602_1452792656 Label:BP_MovingPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1115.360 Y=996.124 Z=-4.515), Max=(X=1310.472 Y=1206.885 Z=4.515) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:3D790235440AFC76711A8BB96F988E2A BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=740.275 Y=2711.209 Z=0.721), Max=(X=1312.063 Y=3493.547 Z=200.721) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:4548787C4717C855480547A20A12A894 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:617017194BA30974B29AC092C0B64936 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:720AD4C1459C1CE034300F90F7D9F38F BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1483720328 Label:BP_PoisonPellet3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1180.867 Y=486.556 Z=22.000), Max=(X=1276.867 Y=582.556 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:728453A242435E92BB04608782FA8DBA BaseClass:/Game/Blueprints/BP_PhysicsLamp.BP_PhysicsLamp_C NativeClass:/Script/Engine.Actor Name:BP_PhysicsLamp_C_UAID_6C2408355EFE343102_1218211392 Label:BP_PhysicsLamp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=416.336 Y=2157.621 Z=123.892), Max=(X=516.336 Y=2257.621 Z=220.753) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:76EF948448B42A401CCFD58EBBE1B5B4 BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFE9D2402_1470519143 Label:BP_PoisonPellet SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1180.867 Y=593.622 Z=22.000), Max=(X=1276.867 Y=689.622 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:77F4AE4C47EF5EFF9650F5BD1786913E BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1487276333 Label:BP_PoisonPellet8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1294.324 Y=268.359 Z=22.000), Max=(X=1390.324 Y=364.359 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:7A52CC2C407A95F1DEA61DBE7887A252 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:7D1C87C8476BBB8FCC837CB111E8BE71 BaseClass:/Game/Blueprints/BP_Button.BP_Button_C NativeClass:/Script/Engine.Actor Name:BP_Button_C_UAID_6C2408355EFE682802_2062683040 Label:BP_Button SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1548.106 Y=2641.088 Z=-1.996), Max=(X=1638.572 Y=2721.035 Z=294.004) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:A3A341CA42324B76ACDE2088A090ED77 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_30 Label:SM_ChamferCube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1002.304 Y=2419.399 Z=38.480), Max=(X=1213.629 Y=2630.724 Z=188.480) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SimulatedCubes FolderGuid:9AEEADCB4DC6C647D6E7C0B4EDA1744F
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:BECBF280402F886053996E84A81B5041 BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1485737330 Label:BP_PoisonPellet5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1180.867 Y=385.231 Z=22.000), Max=(X=1276.867 Y=481.231 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:C1DDF40940526D2E181C25A48BB9A2DB BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:C2D1289F4D7D591F5FBC9BB41E68BAFB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=569.129 Y=-0.000 Z=-50.000), Max=(X=1480.213 Y=4716.895 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:C2DE75BC42578EB5AA16D599F6AE8A02 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:C83D4D3347A5A09498232C843359C8C6 BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1485740331 Label:BP_PoisonPellet6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1294.324 Y=385.231 Z=22.000), Max=(X=1390.324 Y=481.231 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:D3E359F1415551E09C5EB39546359A5B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:D73F7080491A00FAF68D72BF0C771043 BaseClass:/Game/Blueprints/BP_Antidote.BP_Antidote_C NativeClass:/Script/Engine.Actor Name:BP_Antidote_C_UAID_6C2408355EFE482602_1579467295 Label:BP_Antidote SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=631.266 Y=422.522 Z=-84.369), Max=(X=831.266 Y=622.522 Z=115.631) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:D8B32AC841B39E4E94108690EAAEB0F3 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=990.929 Y=119.479 Z=-0.000), Max=(X=1070.929 Y=199.479 Z=184.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:DFB930BC4246FAA1634340A1CCDC7609 BaseClass:/Game/Blueprints/BP_PoisonPellet.BP_PoisonPellet_C NativeClass:/Script/Engine.Actor Name:BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1480041327 Label:BP_PoisonPellet2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1294.324 Y=593.622 Z=22.000), Max=(X=1390.324 Y=689.622 Z=118.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Poison_Pellets FolderGuid:F253994047FD5DC42627088FEBDF70EB
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:E0DEA7EC44BBD74013BF919E9A56DF5E BaseClass:/Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Rifle_C_1 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=757.424 Y=353.682 Z=64.000), Max=(X=821.424 Y=443.122 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:ED3627974F5376F9614327AC445EFB55 BaseClass:/Game/Blueprints/BP_Fire.BP_Fire_C NativeClass:/Script/Engine.Actor Name:BP_Fire_C_UAID_6C2408355EFE5B3502_1931015479 Label:BP_Fire SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1040.413 Y=3652.135 Z=-155.343), Max=(X=1482.180 Y=4013.537 Z=397.328) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:F3DED7B64B6B90742A4E2FB8649F82DE BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:FD342E8F434F7198226F1F99C0AB8894 BaseClass:/Game/Blueprints/BP_PhysicsDoor.BP_PhysicsDoor_C NativeClass:/Script/Engine.Actor Name:BP_PhysicsDoor_C_UAID_6C2408355EFE323102_1287877039 Label:BP_PhysicsDoor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=845.952 Y=2145.102 Z=-0.000), Max=(X=879.630 Y=2299.667 Z=287.450) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Template_FirstPersonMap1
+----------------------------------------------------------------------------------------------------------------
+Template_FirstPersonMap1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Template_FirstPersonMap1 Persistent Level
+ |- Always loaded Actor Count: 35 
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Template_FirstPersonMap1
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_Antidote_C_UAID_6C2408355EFE482602_1579467295
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/6/I4/S57S6LE5RMLJWOSXEXRTSL
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_BasicDoor_C_UAID_6C2408355EFE672802_1866922863
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/4/MN/J81TLYLWRG3VFHLX568KTY
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_Button_C_UAID_6C2408355EFE682802_2062683040
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/D/1P/RKCVKQO45HQ7UDFC7VUU3R
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_Fire_C_UAID_6C2408355EFE5B3502_1931015479
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/3/DS/WUEG80BOYSJZGTKG90JSSZ
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_JumpPad_C_UAID_6C2408355EFE372602_1438794303
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/7/4M/8CQAZVG2ECL9WE75D1X0AW
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_MovingPlatform_C_UAID_6C2408355EFE392602_1452792656
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/2/06/SOICSQKKT7ZGBE8QW1HWQ2
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PhysicsDoor_C_UAID_6C2408355EFE323102_1287877039
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/5/4E/ZQ2UBTTKAVJFFGO7OXYNUV
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PhysicsLamp_C_UAID_6C2408355EFE343102_1218211392
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/D/X7/R5XDITVSJNXLOXCSX5MCDA
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PoisonPellet_C_UAID_6C2408355EFE9D2402_1470519143
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/8/14/5BUTALSGJPEZQKXDXZ2P0V
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1480041327
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/D/UT/PFZVCI7VGBRFFAK8ELTTV7
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1483720328
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/4/F2/S211RR5ICNM5HFMDRP7SRQ
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1483722329
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/B/FQ/IDW0PGMTFTSWTGPX0GFEPZ
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1485737330
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/3/UO/0FS1QEVVD3263DCYBL0OS0
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1485740331
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/8/4O/DL2CJUVEVH5WQCPKCOBYAH
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1487274332
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/C/RX/Q0PSA5FDVGWN09QSS9SZFA
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_PoisonPellet_C_UAID_6C2408355EFEA43502_1487276333
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/6/KE/YVTPX41ASBZYIW5NNQDJNV
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.BP_Rifle_C_1
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/6/CD/VF5X8F0FP48QYWQD21OZE9
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Template_FirstPersonMap1
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Template_FirstPersonMap1
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/5/19/87Y4L47DB4QBJ6IVALE53E
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/5/W7/AGCVKDA2KBWPS0URLO1N96
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Template_FirstPersonMap1
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/5/RC/FAXNRQY9FI5KGGIMNJW0BK
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/C/PK/L2VETAEREDAQ1U0LCPUBKU
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/7/ZE/E1HO4M02NF640OAROJQ68C
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.SkyLight_0
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/1/0K/CS2YS2G3Z954G39LBU4WHE
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.StaticMeshActor_0
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/2/XI/G77H4I2M0S4BHHS5RX5N4M
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.StaticMeshActor_30
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/7/PN/10GYEX5DN99US9KQL9PIDX
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/C/T7/YA5TC0OZF2KTGCDTSQUU3S
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.Template_FirstPersonMap1_C_1
+ |- Actor Package: /Game/Template_FirstPersonMap1
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/8/II/NI5OLID65E8WY4VYSFPWZK
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/7/LN/9ZUKJ8CUI1HJFGH0PP0BY6
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Template_FirstPersonMap1
+ |- Actor Path: /Game/Template_FirstPersonMap1.Template_FirstPersonMap1:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/Template_FirstPersonMap1/7/TY/5BKUWYJ2FZJVHRC7PMX10A
+
+----------------------------------------------------------------------------------------------------------------
+Template_FirstPersonMap1 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
